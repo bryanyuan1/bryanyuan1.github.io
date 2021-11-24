@@ -1,12 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
-<loc>https://bryanyuan1.github.io/portfolio/exp-replay/</loc>
-</url>
-<url>
-<loc>https://bryanyuan1.github.io/portfolio/suturing-sim/</loc>
-</url>
-<url>
 <loc>https://bryanyuan1.github.io/posts/2012/08/blog-post-1/</loc>
 <lastmod>2012-08-14T00:00:00-07:00</lastmod>
 </url>
@@ -25,6 +19,12 @@
 <url>
 <loc>https://bryanyuan1.github.io/posts/2012/08/blog-post-4/</loc>
 <lastmod>2199-01-01T00:00:00-08:00</lastmod>
+</url>
+<url>
+<loc>https://bryanyuan1.github.io/projects/exp-replay/</loc>
+</url>
+<url>
+<loc>https://bryanyuan1.github.io/projects/suturing-sim/</loc>
 </url>
 <url>
 <loc>https://bryanyuan1.github.io/publication/2009-10-01-paper-title-number-1</loc>
@@ -87,7 +87,7 @@
 <loc>https://bryanyuan1.github.io/page-archive/</loc>
 </url>
 <url>
-<loc>https://bryanyuan1.github.io/portfolio/</loc>
+<loc>https://bryanyuan1.github.io/projects/</loc>
 </url>
 <url>
 <loc>https://bryanyuan1.github.io/publications/</loc>
