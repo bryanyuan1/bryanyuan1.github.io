@@ -24,7 +24,7 @@ In short, if you tell me you're designing a robot chef that cooks your mom's fav
 
 # Projects
 
-I've been closely working with [Prof. Marcelo Mattar](https://mattarlab.ucsd.edu/) in a project about improving **experience replay** by re-prioritizing important transitions in the buffer. Our ideas came from his [recent work](https://www.nature.com/articles/s41593-018-0232-z) in neuroscience, and we've proudly submited our preprint [here](). I've also been concurrently working with [Prof. Michael Yip](https://yip.eng.ucsd.edu/) in [UCSD Advanced Robotics and Controls Lab](https://www.ucsdarclab.com/), where I aimed to automated surgical suturing using **deep reinforcement learning** and **physical simulation** using **[position-based dynamics (PBD)](https://matthias-research.github.io/pages/publications/posBasedDyn.pdf)**. Here are the porfolios for both projects:
+I've been closely working with [Prof. Marcelo Mattar](https://mattarlab.ucsd.edu/) in a project about improving **experience replay** by re-prioritizing important transitions in the buffer. Our ideas came from his [recent work](https://www.nature.com/articles/s41593-018-0232-z) in neuroscience, and we've proudly submited our preprint [here](). I've also been concurrently working with [Prof. Michael Yip](https://yip.eng.ucsd.edu/) in [UCSD Advanced Robotics and Controls Lab](https://www.ucsdarclab.com/), where I aimed to automated surgical suturing using **deep reinforcement learning** and **physics simulation** using **[position-based dynamics (PBD)](https://matthias-research.github.io/pages/publications/posBasedDyn.pdf)**. Here are the porfolios for both projects:
 
 - [Reinventing experience replay](/projects/exp-replay)
 - [Suturing simulation](/projects/suturing-sim)

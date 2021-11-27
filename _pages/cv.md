@@ -29,7 +29,7 @@ redirect_from:
   - Duties included:
     - Developed a simulation environment using OpenGL and position based dynamics (PBD) to train robots for automated surgical suturing.
     - Successfully simulated the deformation of the tissue during suturing with a new constraint formula.
-    - Derived a novel physical simulation method called diffPBD by making PBD differentiable, enabling direct gradient-based control of a gripper to deform the tissue towards the target shape. 
+    - Derived a novel physics simulation method called diffPBD by making PBD differentiable, enabling direct gradient-based control of a gripper to deform the tissue towards the target shape. 
   - **Supervisor**: [Professor Michael Yip](https://yip.eng.ucsd.edu/)
 
 - December 2020 - Present: **Research Assistant**
