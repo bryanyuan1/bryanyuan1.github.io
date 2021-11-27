@@ -1,7 +1,7 @@
 ---
 title: "Reinventing experience replay: prioritize like humans do"
 excerpt: "A novel version of prioritized experience replay (PER) <br/><img src='/images/exp-replay.png' style='width: 500px'>"
-collection: portfolio
+collection: projects
 ---
 
 This is the project I worked on with [Prof. Marcelo Mattar](https://mattarlab.ucsd.edu/). We aim to design a bias term in addition to the **TD-error** (prediction error) which was originally used in [Prioritized Experience Replay](https://arxiv.org/abs/1511.05952). This bias term, which we call the **"need" term**, measures the expected future relevance of one state w.r.t. another. The effect we want to achieve is that, given that the agent is at one certain current state, it not only samples the experiences that are most "surprising", but also most relevant to its near future.
