@@ -8,23 +8,25 @@ redirect_from:
   - /about.html
 ---
 
-Hi! I am an undergraduate student at [UC San Diego](https://ucsd.edu/). I've recently received my B.S. in Computer Science in September 2021.
+Hi! This is Yizhi, an experienced software engineer and an aspiring computer architect.
+
+It was after the 1-year undergraduate research experience, that I realized I was not simply attracted to deep learning topics. I did substantial amount of work in bringing up new models and training, but building up software systems was really my thing.
+
+A brief break from the academia, my work at Qualcomm and TikTok made it even more evident: it is fun to design and build fast systems. The beauty of it lies in its composability - we can build a splendid mansion from a myriad of bricks. We compose large systems from simple elements, and we're able to maximize its performance by understanding these elements.
+
+Apart from building efficient softwares, I also want to design the underlying architecture where they run fast. This is my future goal.
 
 # Research
 
-I am interested in **Deep Reinforcement Learning**, **Robotics**, and a little bit of **Neuroscience**. In general, I care about the application of machine learning algorithms to make the world a better place.
+I am interested in **Computer Systems** and **Accelerators** that does our jobs extremely fast.
 
-Here are some questions that I care much about:
+I believe that computer systems will also be increasingly heterogeneous, namely different pieces sewed together, to maximize performance under limitations of computation power, memory bandwidth, and energy consumption.
 
-- **What** problems in the real world can we solve using reinforcement learning/machine learning algorithms?
-- **How** to use our algorithms to solve them?
-- **Why** do our algorithms work and not others?
-
-In short, if you tell me you're designing a robot chef that cooks your mom's favorite dish, then I'm in.
+I am eager to build such [Frankenstein](https://en.wikipedia.org/wiki/Frankenstein) systems.
 
 # Projects
 
-I've been closely working with [Prof. Marcelo Mattar](https://mattarlab.ucsd.edu/) in a project about improving **experience replay** by re-prioritizing important transitions in the buffer. Our ideas came from his [recent work](https://www.nature.com/articles/s41593-018-0232-z) in neuroscience, and we've proudly submited our preprint [here](). I've also been concurrently working with [Prof. Michael Yip](https://yip.eng.ucsd.edu/) in [UCSD Advanced Robotics and Controls Lab](https://www.ucsdarclab.com/), where I aimed to automated surgical suturing using **deep reinforcement learning** and **physics simulation** using **[position-based dynamics (PBD)](https://matthias-research.github.io/pages/publications/posBasedDyn.pdf)**. Here are the porfolios for both projects:
+I've been closely working with [Prof. Marcelo Mattar](https://mattarlab.ucsd.edu/) in a project about improving **experience replay** by re-prioritizing important transitions in the buffer. Our ideas came from his [recent work](https://www.nature.com/articles/s41593-018-0232-z) in neuroscience, and we've proudly submited our preprint [here](). I've also worked with [Prof. Michael Yip](https://yip.eng.ucsd.edu/) in [UCSD Advanced Robotics and Controls Lab](https://www.ucsdarclab.com/), where I aimed to automated surgical suturing using **deep reinforcement learning** and **physics simulation** using **[position-based dynamics (PBD)](https://matthias-research.github.io/pages/publications/posBasedDyn.pdf)**. Here are the porfolios for both projects:
 
-- [Reinventing experience replay](/projects/exp-replay)
-- [Suturing simulation](/projects/suturing-sim)
+- [Teach your computer to learn what's relevant](/projects/exp-replay)
+- [Teach a robot arm to do surgery](/projects/suturing-sim)

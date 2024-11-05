@@ -10,11 +10,11 @@ locale: "en-US"
 title: "Yizhi Yuan"
 title_separator: "-"
 name: &name "Yizhi Yuan"
-description: &description "Yizhi (Bryan) Yuan is a researcher in reinforcement learning and robotics. Recent grad from UCSD in summer 2021."
+description: &description "Yizhi Yuan is graduated from UCSD in summer 2021. Having been a software engineer at Qualcomm and TikTok, he is now an aspiring researcher in computer systems and architecture."
 url: https://bryanyuan1.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl: "" # the subpath of your site, e.g. "/blog"
 repository: ""
-teaser: "profile.png" # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
+teaser: "profile.jpeg" # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs: false # true, false (default)
 words_per_minute: 160
 future: true
@@ -81,9 +81,9 @@ author:
   name: "Yizhi Yuan"
   name_chi: "袁易之"
   avatar: "profile.png"
-  bio: "Reinforcement Learning Researcher | Recent grad @ UCSD"
-  location: "La Jolla, California"
-  employer: University of California San Diego
+  bio: "embrace weird systems"
+  location: "Los Angeles, California"
+  employer: TikTok Inc.
   pubmed:
   googlescholar:
   email: "bryanyizhiyuan@gmail.com"
